@@ -1,0 +1,383 @@
+{
+	
+"parties":[
+		{
+			"name":"Bharatiya Janata Party",
+			"default_alliance":"NDA",
+			"code":"BJP",
+			"color":"#BB713D",
+			"seats":255
+		},
+		{
+			"name":"Desiya Murpokku Dravida Kazhagam",
+			"default_alliance":"NDA",
+			"code":"DMDK",
+			"color":"#BB713D",
+			"seats":16
+		},
+		{
+			"name":"Pattali Makkal Katchi",
+			"default_alliance":"NDA",
+			"code":"PMK",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Marumalarchi Dravida Munnetra Kazhagam",
+			"default_alliance":"NDA",
+			"code":"MDMK",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Kongunadu Makkal Desia Katchi",
+			"default_alliance":"NDA",
+			"code":"KMDK",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Indhiya Jananayaga Katchi",
+			"default_alliance":"NDA",
+			"code":"IJK",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"New Justice Party",
+			"default_alliance":"NDA",
+			"code":"NJP",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Telugu Desam Party",
+			"default_alliance":"NDA",
+			"code":"TDP",
+			"color":"#BB713D",
+			"seats":19
+		},
+		{
+			"name":"Jana Sena Party",
+			"default_alliance":"NDA",
+			"code":"JSP",
+			"color":"#BB713D",
+			"seats":10
+		},
+		{
+			"name":"Shiv Sena",
+			"default_alliance":"NDA",
+			"code":"SS",
+			"color":"#BB713D",
+			"seats":2
+		},
+		{
+			"name":"Swabhimani Paksha",
+			"default_alliance":"NDA",
+			"code":"SwPa",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Republican Party of India (Athvale)",
+			"default_alliance":"NDA",
+			"code":"RPI_A",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Rashtriya Samaj Paksha",
+			"default_alliance":"NDA",
+			"code":"RSP",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Shiromani Akali Dal",
+			"default_alliance":"NDA",
+			"code":"SAD",
+			"color":"#BB713D",
+			"seats":1
+		},
+		{
+			"name":"Lok Janshakti Party",
+			"default_alliance":"NDA",
+			"code":"LJP",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Rashtriya Lok Samata Party",
+			"default_alliance":"NDA",
+			"code":"RLSP",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Haryana Janhit Congress",
+			"default_alliance":"NDA",
+			"code":"HJC",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Apna Dal",
+			"default_alliance":"NDA",
+			"code":"ApDa",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Kerala Congress (Nationalist)",
+			"default_alliance":"NDA",
+			"code":"KC_N",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Revolutionary Socialist Party (Bolshevik)",
+			"default_alliance":"NDA",
+			"code":"RSP_B",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"All India N.R. Congress",
+			"default_alliance":"NDA",
+			"code":"AINRC",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"National People's Party (India)",
+			"default_alliance":"NDA",
+			"code":"NPP_I",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Naga People's Front",
+			"default_alliance":"NDA",
+			"code":"NPF",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"United Democratic Front",
+			"default_alliance":"NDA",
+			"code":"AIUDF",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Manipur Peoples Party",
+			"default_alliance":"NDA",
+			"code":"MPP",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"North-East Regional Political Front",
+			"default_alliance":"NDA",
+			"code":"NERPF",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Gorkha Janmukti Morcha",
+			"default_alliance":"NDA",
+			"code":"GJM",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Maharashtrawadi Gomantak Party",
+			"default_alliance":"NDA",
+			"code":"MGP",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Indian National Congress",
+			"default_alliance":"UPA",
+			"code":"INC",
+			"color":"#6F8DCA",
+			"seats":115
+		},
+		{
+			"name":"Rashtriya Janata Dal",
+			"default_alliance":"UPA",
+			"code":"RJD",
+			"color":"#6F8DCA",
+			"seats":0
+		},
+		{
+			"name":"Nationalist Congress Party",
+			"default_alliance":"UPA",
+			"code":"NCP",
+			"color":"#6F8DCA",
+			"seats":1
+		},
+		{
+			"name":"Rashtriya Lok Dal",
+			"default_alliance":"UPA",
+			"code":"RLD",
+			"color":"#6F8DCA",
+			"seats":0
+		},
+		{
+			"name":"Jharkhand Mukti Morcha",
+			"default_alliance":"UPA",
+			"code":"JMM",
+			"color":"#6F8DCA",
+			"seats":0
+		},
+		{
+			"name":"Jammu & Kashmir National Conference",
+			"default_alliance":"UPA",
+			"code":"JKNC",
+			"color":"#6F8DCA",
+			"seats":0
+		},
+		{
+			"name":"Mahan Dal",
+			"default_alliance":"UPA",
+			"code":"MD",
+			"color":"#6F8DCA",
+			"seats":0
+		},
+		{
+			"name":"Communist Party of India",
+			"default_alliance":"Alternate Front",
+			"code":"CPI",
+			"color":"#43623B",
+			"seats":0
+		},
+		{
+			"name":"Communist Party of India (Marxist)",
+			"default_alliance":"Alternate Front",
+			"code":"CPI_M",
+			"color":"#43623B",
+			"seats":0
+		},
+		{
+			"name":"Revolutionary Socialist Party (India)",
+			"default_alliance":"Alternate Front",
+			"code":"RSP_I",
+			"color":"#43623B",
+			"seats":0
+		},
+		{
+			"name":"All India Forward Bloc",
+			"default_alliance":"Alternate Front",
+			"code":"AIFB",
+			"color":"#43623B",
+			"seats":0
+		},
+		{
+			"name":"Samajwadi Party",
+			"default_alliance":"Alternate Front",
+			"code":"SP",
+			"color":"#43623B",
+			"seats":17
+		},
+		{
+			"name":"Janata Dal (United)",
+			"default_alliance":"Alternate Front",
+			"code":"JDU",
+			"color":"#43623B",
+			"seats":1
+		},
+		{
+			"name":"Janata Dal (Secular)",
+			"default_alliance":"Alternate Front",
+			"code":"JD_S",
+			"color":"#43623B",
+			"seats":0
+		},
+		{
+			"name":"Jharkhand Vikas Morcha",
+			"default_alliance":"Alternate Front",
+			"code":"JVM",
+			"color":"#43623B",
+			"seats":0
+		},
+		{
+			"name":"Biju Janata Dal",
+			"default_alliance":"Alternate Front",
+			"code":"BJD",
+			"color":"#43623B",
+			"seats":18
+		},
+		{
+			"name":"Asom Gana Parishad",
+			"default_alliance":"NDA",
+			"code":"AGP",
+			"color":"#BB713D",
+			"seats":0
+		},
+		{
+			"name":"Telangana Rashtra Samithi",
+			"default_alliance":"Other",
+			"code":"TRS",
+			"color":"#CBCBCB",
+			"seats":7
+		},
+		{
+			"name":"Indian National Lok Dal",
+			"default_alliance":"Other",
+			"code":"INLD",
+			"color":"#CBCBCB",
+			"seats":0
+		},
+		{
+			"name":"Bahujan Samaj Party",
+			"default_alliance":"Other",
+			"code":"BSP",
+			"color":"#CBCBCB",
+			"seats":16
+		},
+		{
+			"name":"All India Anna Dravida Munnetra Kazhagam",
+			"default_alliance":"Alternate Front",
+			"code":"AIADMK",
+			"color":"#43623B",
+			"seats":21
+		},
+		{
+			"name":"Aam Admi Party",
+			"default_alliance":"Other",
+			"code":"AAP",
+			"color":"#CBCBCB",
+			"seats":13
+		},
+		{
+			"name":"Trinamool Congress",
+			"default_alliance":"Other",
+			"code":"TMC",
+			"color":"#CBCBCB",
+			"seats":28
+		},
+		{
+			"name":"Majlis-e-Ittehadul Muslimeen",
+			"default_alliance":"Other",
+			"code":"MIM",
+			"color":"#CBCBCB",
+			"seats":0
+		},
+		{
+			"name":"Maharashtra Navnirman Sena",
+			"default_alliance":"Other",
+			"code":"MNS",
+			"color":"#CBCBCB",
+			"seats":3
+		},
+		{
+			"name":"Sikkim Democratic Front",
+			"default_alliance":"Other",
+			"code":"SDF",
+			"color":"#CBCBCB",
+			"seats":0
+		}
+	]
+}
